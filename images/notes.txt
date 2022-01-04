@@ -1,0 +1,16 @@
+colors:
+Text - #c1b49c
+Background - #1e252c
+
+img links
+
+https://i.postimg.cc/sfp2Wm0R/crusade.jpg *
+https://i.postimg.cc/4NsxQcrH/facebook-logo.png *
+https://i.postimg.cc/jdcdg5bg/in-waves.jpg *
+https://i.postimg.cc/nzqnvV21/ramshead-crewneck.png *
+https://i.postimg.cc/QdnNDyVc/shogun-2.jpg *
+https://i.postimg.cc/qv7B9TBk/trivium-logo.jpg *
+https://i.postimg.cc/xdJf13bh/triviumcd-4.png *
+https://i.postimg.cc/x8RY4sWJ/triviumstreamingt.png *
+https://i.postimg.cc/sf9VxXvj/triviumwindbreaker1.png *
+https://i.postimg.cc/7hDwXvQr/twitter-logo.png *
